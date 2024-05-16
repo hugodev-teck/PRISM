@@ -6,7 +6,7 @@ Passionné d'électronique et d'informatique, je suis un étudiant de 17 ans don
 Bienvenue dans le référentiel PRISM ! Cette plateforme révolutionnaire de tablette modulaire est conçue pour offrir une expérience utilisateur polyvalente et adaptable, repoussant les limites de la flexibilité et de la personnalisation.
 
 > [!NOTE]
-> Sortie officiel du projet en Janvier 2025
+> Sortie officiel au cours de l'avancement de celui-ci 
 
 # À propos de PRISM
 PRISM est bien plus qu'une simple tablette. C'est une plateforme modulaire complète, conçue pour répondre aux besoins changeants des utilisateurs modernes. Son architecture modulaire permet une personnalisation totale, offrant une flexibilité inégalée pour s'adapter à tous les scénarios d'utilisation, qu'il s'agisse de professionnels exigeants, d'adeptes de la technologie ou de passionnés de bricolage.
