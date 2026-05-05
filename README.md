@@ -1,6 +1,7 @@
-![logo-removebg-preview (1)](https://github.com/hugodev-teck/Prism/assets/84953759/a7c18f4c-e080-4b52-9e7d-35d790b7632c)
+<img width="721" height="297" alt="logo-text-big" src="https://github.com/user-attachments/assets/b89952a9-3fac-4f83-9dfe-4ea9a3f51390" />
+
 # Le projet
-Passionné d'électronique et d'informatique, je suis un étudiant de 18 ans dont l'objectif est de réinventer le futur technologique pour le rendre plus écologique, tout en ne négligeant pas le côté pratique. J'ai bon espoir que le projet puisse enfin être dévoilé. Pour le moment, il ne s'agit que de plans et de morceaux de code qui ne sont pas terminés, bien que [DeskTools](https://live-prism.web.app/), la plateforme contenant tous les outils pour une productivité optimale, soit déjà disponible en version bêta pour windows et bientôt linux.
+Passionné d'électronique et d'informatique, je suis un étudiant de 19 ans dont l'objectif est de réinventer le futur technologique pour le rendre plus écologique, tout en ne négligeant pas le côté pratique. J'ai bon espoir que le projet puisse enfin être dévoilé. Pour le moment, il ne s'agit que de plans et de morceaux de code qui ne sont pas terminés, bien que [DeskTools](https://live-prism.web.app/), la plateforme contenant tous les outils pour une productivité optimale, soit déjà disponible en version bêta pour windows et bientôt linux.
 
 # PRISM : Plateforme de Tablette Modulaire avec Système d'Exploitation
 Bienvenue dans le référentiel PRISM ! Cette plateforme révolutionnaire de tablette modulaire est conçue pour offrir une expérience utilisateur polyvalente et adaptable, repoussant les limites de la flexibilité et de la personnalisation.
